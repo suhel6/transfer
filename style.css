@@ -1,0 +1,90 @@
+.nav-item {
+    position: relative;
+    top: 3px;
+}
+
+.menu {
+    margin-left: 100%;
+}
+
+.bi.bi-suitcase {
+    position: relative;
+    bottom: 4px;
+}
+
+.container {
+    width: 75%;
+}
+
+
+
+.col-xxl-8.px-4.py-5 {
+    position: relative;
+    bottom: 40px;
+}
+
+.container.px-4.py-5#hanging-icons {
+    position: relative;
+    bottom: 100px;
+}
+
+
+
+.btn {
+    margin-left: 5px;
+}
+
+#carouselExampleDark {
+    position: relative;
+    top: 0px;
+}
+
+.cargo-img {
+    display: block;
+    height: 80vh;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 20px;
+}
+
+.inp {
+    padding-left: 15px;
+    height: 33px;
+    z-index: 2;
+    position: relative;
+    top: 2px;
+    border: 0.5px solid rgba(131, 118, 118, 0.945);
+    border-radius: 5%;
+    background-color: rgb(36, 33, 33);
+}
+
+li {
+    z-index: 2;
+}
+
+::placeholder {
+    color: #dee2e6bf;
+    padding-bottom: 70px;
+}
+
+:focus {}
+
+#tcc {
+    position: relative;
+    bottom: 50px;
+}
+
+@media (min-width:992px) {
+    .navbar.navbar-expand-lg.bg-body-tertiary {
+        height: 70px;
+    }
+
+    .dflex {
+        position: absolute;
+        right: 20px;
+        top: 19px;
+    }
+
+}
